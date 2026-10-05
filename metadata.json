@@ -1,0 +1,6 @@
+{
+  "name": "TestHub - Online Test Tizimi",
+  "description": "O'quvchilar va o'qituvchilar uchun qulay, ishonchli va to'liq funksional onlayn test platformasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
